@@ -1,2 +1,2 @@
 # C-Sharp-Exercicios
- Exercícios de C# feitos 
+ Exercícios de C#
